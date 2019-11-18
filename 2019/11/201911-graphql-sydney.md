@@ -76,11 +76,25 @@ The bill for our dinner and drinks tonight gets picked up by Alembic. Alembic ar
 First, we have Pawan, talk about how easy it is to get started with a GraphQL API served by Dgraph, an open source distributed graph database
 
 ---
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/pl8fur2ruf5vjty/andi-marek.png?dl=1)
+
+# [fit] **GraphQL: the**
+# [fit] **unknown and**
+# [fit] **maybe surprising**
+# [fit] **_Andi Marek_**
+# [fit] **`@andimarek`**
+
+^
+
+---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] **`@pawan_rawal`**
+# [fit] **`@pawan_rawal` / `@andimarek`**
 
-# [fit] **`@graphqlsydney`**
+# [fit] **_`@graphqlsydney`_**
 
 ^
 If you're Twitter-inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention graphqlsydney to tie the night altogether. 
