@@ -65,6 +65,18 @@ The bill for our dinner and drinks tonight gets picked up by Alembic. Alembic ar
 [.hide-footer]
 [.slidenumbers: false]
 
+![left](https://www.dropbox.com/s/6n82pw4u33msmb6/vasyl-boroviak.jpg?dl=1)
+
+# [fit] **Better mutations**
+# [fit] **using GraphQL**
+# [fit] **GRPC, Restful, and**
+# [fit] **in memory altogether**
+# [fit] **_Vasyl Boroviak_**
+# [fit] **`@kore_sar`**
+---
+[.hide-footer]
+[.slidenumbers: false]
+
 ![left](https://www.dropbox.com/s/udy13ysjx29zqa4/pawan-rawal.jpeg?dl=1)
 
 # [fit] **Running a GraphQL**
@@ -92,9 +104,9 @@ First, we have Pawan, talk about how easy it is to get started with a GraphQL AP
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] **`@pawan_rawal` / `@andimarek`**
+# [fit] **`@kore_sal` / `@pawan_rawal`**
 
-# [fit] **_`@graphqlsydney`_**
+# [fit] **`@andimarek` / _`@graphqlsydney`_**
 
 ^
 If you're Twitter-inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention graphqlsydney to tie the night altogether. 
@@ -159,6 +171,8 @@ We are looking for speakers!
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
 
 ---
+
+<br />
 
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
