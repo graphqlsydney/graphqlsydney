@@ -19,10 +19,8 @@ We have a great lineup of speakers, we'll cover some upcoming events, tips, tric
 ---
 
 # [fit] **_Housekeeping_**
-## [fit] *Bathrooms*
-## [fit] *Emergency Exits*
-## [fit] *Hot food*
-## [fit] *Glass bottles*
+## [fit] *Bathrooms* / *Emergency Exits*
+## [fit] *Hot food* / *Glass bottles*
 
 ^
 - Location of bathrooms
@@ -67,8 +65,8 @@ The bill for our dinner and drinks tonight gets picked up by Alembic. Alembic ar
 
 ![left](https://www.dropbox.com/s/jfsizq4tnz66lwr/aliaksei-kuncevic.png?dl=1)
 
-# [fit] **_Angular GraphQL_**
-# [fit] *Magic*
+# [fit] **_GraphQL_** *Magic*
+# [fit] **_with_** *Angular*
 # [fit] **_Aliaksei Kuncevič_**
 # [fit] *`@kuncevic`*
 
