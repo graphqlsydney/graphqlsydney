@@ -7,7 +7,7 @@
 
 ## Presentations
 
-- **GraphQL Magic with Angular**
+- **[GraphQL Magic with Angular][]**
   - Aliaksei Kuncevič :: [@kuncevic][] ([#4][])
 - **Scaling GraphQL Websites**
   - Simon Arneaud :: ([#5][])
@@ -17,6 +17,7 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[GraphQL Magic with Angular]: https://speakerdeck.com/kuncevic/graphql-magic-with-angular
 [@kuncevic]: https://twitter.com/kuncevic
 [#4]: https://github.com/graphqlsydney/graphqlsydney/issues/4
 [#5]: https://github.com/graphqlsydney/graphqlsydney/issues/5
