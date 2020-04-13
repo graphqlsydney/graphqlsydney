@@ -20,6 +20,6 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#6]: https://github.com/graphqlsydney/graphqlsydney/issues/6
 [@petronbot]: https://twitter.com/petronbot
 [#7]: https://github.com/graphqlsydney/graphqlsydney/issues/7
-[Meetup page]:
+[Meetup page]: https://www.meetup.com/GraphQL-Sydney/events/270019359
 [Tweets]: https://twitter.com/search?f=tweets&q=graphqlsydney%20since%3A2020-04-15%20until%3A2020-04-17&src=typd
 [Deckset]: https://www.decksetapp.com/
