@@ -5,7 +5,7 @@ footer: @graphqlsydney
 # [fit] *16 April 2020*
 
 ^
-Welcome to GraphQL Sydney.
+Hi everyone, and welcome. My name is Paul and I am one of the organisers of GraphQL Sydney and it is fantastic to have you all here for our inaugural online only meetup. It's BYO pizza and drinks tonight, unfortunately, but at least you are able to enjoy our time together from wherever you happen to be, and I hope that you are all staying safe.
 
 ---
 
@@ -35,7 +35,7 @@ the meetup.
 # Don't leave your house
 
 ^
-Since we are not at a physical venue, I'm going to assume that you know your
+Since we are not at a physical venue together, I'm going to assume that you know your
 own abode better than I do with relation to location of bathrooms, emergency
 exits, and what you should do with food remains and glass bottles. So the only
 housekeeping I think I've got is to tell you to stay tuned and don't leave your
