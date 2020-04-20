@@ -6,7 +6,7 @@
 
 ## Presentations
 
-- **GraphQL @ :Different**
+- **[GraphQL @ :Different][]**
   - Matt Valley :: [@mehdivk][] ([#6][])
 - **A GraphQL survival guide**
   - Petra Gulicher :: [@petronbot][] ([#7][])
@@ -16,6 +16,7 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[GraphQL @ :Different]: https://speakerdeck.com/mattvalleycodes/graphql-at-different-a-case-study-presented-at-graphql-sydney-meetup
 [@mehdivk]: https://twitter.com/medivk
 [#6]: https://github.com/graphqlsydney/graphqlsydney/issues/6
 [@petronbot]: https://twitter.com/petronbot
