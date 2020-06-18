@@ -56,7 +56,7 @@ Alembic are a boutique consultancy specialising in GraphQL, Elixir, and React. I
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/if8z8pai5xitlpx/lyndon-maydwell.jpeg?dl=1)
+![right](https://www.dropbox.com/s/etqfz1lwx02s0ec/lyndon-maydwell.jpg?dl=1)
 
 # [fit] *Realtime* **_GraphQL_**
 # [fit] *and* **_serverless_**
