@@ -7,7 +7,7 @@
 ## Presentations
 
 - **Realtime GraphQL and serverless made easy for React with Hasura**
-  - Arpit Kushwaha :: [@tanmaigo][] ([#8][])
+  - Lyndon Maydwell ([#8][])
 - **Feature Flag approach with GraphQL, Apollo and React**
   - Rafael Nunes :: [@peaonunes][] ([#9][])
 
@@ -16,7 +16,6 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
-[@tanmaigo]: https://twitter.com/tanmaigo
 [#8]: https://github.com/graphqlsydney/graphqlsydney/issues/8
 [@peaonunes]: https://twitter.com/peaonunes
 [#9]: https://github.com/graphqlsydney/graphqlsydney/issues/9
