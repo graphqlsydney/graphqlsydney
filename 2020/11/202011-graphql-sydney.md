@@ -5,7 +5,7 @@ footer: @graphqlsydney
 # [fit] *11 November 2020*
 
 ^
-Hi everyone, and welcome. My name is Paul and I am one of the organisers of GraphQL Sydney and it is fantastic to have you all here for our second online meetup.
+Hi everyone, and welcome. My name is Paul and I am one of the organisers of GraphQL Sydney and it is fantastic to have you all here for this month's online meetup.
 
 ---
 
