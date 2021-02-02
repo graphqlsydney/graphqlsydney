@@ -70,13 +70,16 @@ First up we have Fazlan Nazeem, who will be talking about API Management for Gra
 [.hide-footer]
 [.slidenumbers: false]
 
-![right]()
+![right](https://www.dropbox.com/s/k06iffwcqratmm8/pavel-kostenko.jpg?dl=1)
 
-# [fit] Major time saving with Hasura
-# [fit] **_????_**
+# [fit] *Major*
+# [fit] **_time saving_**
+# [fit] *with* **_Hasura_**
+# [fit] **_Pavel Kostenko_**
+# [fit] *`@poul_kg`*
 
 ^
-Then, we have ???, who will be talking about how they did some major time saving using Hasura, focusing on the approach his team took, the tools they used to save the development time, as well as the problems they faced and their solutions.
+Then, we have Pavel Kostenko, who will be talking about how they did some major time saving using Hasura, focusing on the approach his team took, the tools they used to save the development time, as well as the problems they faced and their solutions.
 
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
