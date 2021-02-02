@@ -7,9 +7,9 @@
 ## Presentations
 
 - **API Management for GraphQL**
-  - Fazlan Nazeem [@fazlan077][] ([#12][])
+  - Fazlan Nazeem :: [@fazlan077][] ([#12][])
 - **Major time saving with Hasura**
-  - Pavel Kostenko [@poul-kg][] :: ([#13][])
+  - Pavel Kostenko :: [@poul-kg][] ([#13][])
 
 ### Slide Deck
 
