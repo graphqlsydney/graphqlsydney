@@ -6,7 +6,7 @@
 
 ## Presentations
 
-- **API Management for GraphQL**
+- **[API Management for GraphQL][]**
   - Fazlan Nazeem :: [@fazlan077][] ([#12][])
 - **Major time saving with Hasura**
   - Pavel Kostenko :: [@poul-kg][] ([#13][])
@@ -16,6 +16,7 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[API Management for GraphQL]: https://www.slideshare.net/wso2.org/graphql-sydeny-api-management-for-graphql/
 [#12]: https://github.com/graphqlsydney/graphqlsydney/issues/12
 [@fazlan077]: https://twitter.com/fazlan077
 
