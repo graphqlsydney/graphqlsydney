@@ -84,6 +84,7 @@ Then, we have Pavel Kostenko, who will be talking about how they did some major 
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
+# [fit] *`@fazlan077` / `@poul_kg`*
 # [fit] **_`@graphqlsydney`_**
 
 ^
@@ -140,6 +141,19 @@ We are looking for speakers!
 - Or, feel free to tweet at any of the GraphQL Sydney organisers on Twitter.<br />
 - Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more.<br />
 - Also, if you need any help creating or critiquing your presentation or want someone to do a dry run, then please feel free to approach any of the GraphQL Sydney organisers and we're happy to help you in any way we can to make you look awesome up on stage.
+
+---
+
+# [fit] **_Events_**
+
+---
+
+![](https://www.dropbox.com/s/jgnp2asm4398tgy/graphql-asia.png?dl=1)
+
+^
+We're excited to announce that we are community partners with GraphQL Asia 2021. The first GraphQL Conference of the year is happening on 24th & 25th Feb, online and free.<br />
+The featured talk is Dan Schafer ( GraphQL co-creator & Director of Engineering at Facebook) sit down for a fireside chat on The State of GraphQL followed by a live Q&A with the audience.<br />
+You can go and read more about the talks, workshops & register at https://graphql.asia/
 
 ---
 
