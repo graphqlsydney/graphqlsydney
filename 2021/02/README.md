@@ -24,5 +24,5 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@poul_kg]: https://twitter.com/poul_kg
 
 [Meetup page]: https://www.meetup.com/GraphQL-Sydney/events/275488256/
-[Tweets]: https://twitter.com/search?f=tweets&q=graphqlsydney%20since%3A2021-01-10%20until%3A2021-01-12&src=typd
+[Tweets]: https://twitter.com/search?f=tweets&q=graphqlsydney%20since%3A2021-02-10%20until%3A2021-02-12&src=typd
 [Deckset]: https://www.decksetapp.com/
