@@ -2,7 +2,7 @@ theme: Ostrich, 1
 footer: @graphqlsydney
 
 # [fit] **__GraphQL Sydney__**
-# [fit] *08 February 2022*
+# [fit] *09 February 2022*
 
 ^
 Hi everyone, and welcome. My name is Paul and I am one of the organisers of GraphQL Sydney and it is fantastic to have you all here for this month's online meetup.
@@ -65,7 +65,7 @@ Alembic are a boutique consultancy who love all web technologies, but especially
 # [fit] @metapgmr
 
 ^
-Our speaker tonight is Praveen Durairaju, who will be taking us on a deep dive into GraphQL caching, including why is it tricky, how is it different from your REST APIs and how to build high performance GraphQL applications with caching enabled.
+Our speaker tonight is Jean-Jacques Dubray, talking about Nav, a Small Business Lending platform built on a polyglot microservice architecture, inspired by GraphQL.
 
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
