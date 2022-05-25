@@ -10,7 +10,7 @@ Hi everyone, and welcome. My name is Paul and I am one of the organisers of Grap
 ---
 
 # [fit] **__Tonight__**
-## *Talks*
+## *Talk*
 ## *News / Tips / Jobs*
 
 ^
