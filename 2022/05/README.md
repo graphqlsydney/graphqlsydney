@@ -1,4 +1,4 @@
-# GraphQL Sydney Wednesday, 05 May 2022
+# GraphQL Sydney Wednesday, 25 May 2022
 
 - From 6:00 (for 6:15pm start) @ Online
 - [Meetup page][]
