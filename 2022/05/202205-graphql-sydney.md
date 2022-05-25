@@ -2,7 +2,7 @@ theme: Ostrich, 1
 footer: @graphqlsydney
 
 # [fit] **__GraphQL Sydney__**
-# [fit] *23 May 2022*
+# [fit] *25 May 2022*
 
 ^
 Hi everyone, and welcome. My name is Paul and I am one of the organisers of GraphQL Sydney and it is fantastic to have you all here for this month's online meetup.
