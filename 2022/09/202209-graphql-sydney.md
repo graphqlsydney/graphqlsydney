@@ -34,7 +34,7 @@ Next, we'd like to thank our sponsor, without which these meetups would not be p
 
 ---
 
-# [fit] **__Zoom Sponsor__**
+# [fit] **__Pizza/Drinks/Zoom Sponsor__**
 
 <br />
 
@@ -42,7 +42,7 @@ Next, we'd like to thank our sponsor, without which these meetups would not be p
 
 ^
 Alembic is our sponsor tonight for all the things you see in real life and
-online, including both speakers, who are from Alembic.
+online, including two speakers, who are from Alembic.
 Alembic are a boutique consultancy who love all web technologies, but especially GraphQL, Elixir, React, and Typescript. If you need a hand with a project or API, you should get in touch with them!
 
 ---
@@ -144,17 +144,17 @@ We are looking for speakers!
 # [fit] `https://www.youtube.com/channel/UCnEvNUjmt8KoeYY5L51HBRg`
 
 ^
-GraphQL Australia has a YouTube channel where recordings of talks from at least this meetup go up, and we're definitely happy to have videos uploaded from other GraphQL meetups from around Australia, so if you are a regional meetup organiser or know one who has talk videos that need a home, please reach out.<br />
+GraphQL Australia has a YouTube channel where recordings of talks from at this meetup go up.<br />
 Either go to the URL you can see on the slide, or just do a search for GraphQL Australia and you'll be sure to find us. Don't forget to like and subscribe, as we'd love to get up to 100 subscribers so we can get one of those fancy custom URLs, rather than the bland ID that we have.
 
----
+<!-- --- -->
 
-# [fit] **__Tips and Tricks__**
-# [fit] _Stuff that makes your life_
-# [fit] _easier/better/faster_
+<!-- # [fit] **__Tips and Tricks__** -->
+<!-- # [fit] _Stuff that makes your life_ -->
+<!-- # [fit] _easier/better/faster_ -->
 
-^
-[Anything speakers want to add...?]
+<!-- ^ -->
+<!-- [Anything speakers want to add...?] -->
 
 ---
 
@@ -179,5 +179,5 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **__\(The second Wednesday of the second month of each quarter.\)__**
 
 ^
-The next meetup is tentatively set to be December 14th, our cadence being the second Wednesday of the second month of each quarter (except for this month where we bent the rules to make sure we actually had a meetup for you).
+The next meetup is tentatively set to be December 14th, our cadence being the second Wednesday of the second month of each quarter.
 Thanks for coming along and we hope to see you next time!
