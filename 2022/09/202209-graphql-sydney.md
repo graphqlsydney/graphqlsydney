@@ -78,12 +78,27 @@ Our first speaker tonight is Josh Price, who will talk about GraphQL Code Genera
 # [fit] _@ZachSDaniel1_
 
 ^
-Our second speaker is Zach Daniel, who has pre-recorded a talk about the AshGraphQL project, part of the Ash Framework. Using declarative design, the Ash Framework is capable of providing a powerful and flexible GraphQL API, and Zach will go over configuration options, and the powerful features that can be leveraged when combined with your Ash resources, and what this means for your velocity.
+Next is Zach Daniel, who has pre-recorded a talk about the AshGraphQL project, part of the Ash Framework. Using declarative design, the Ash Framework is capable of providing a powerful and flexible GraphQL API, and Zach will go over configuration options, and the powerful features that can be leveraged when combined with your Ash resources, and what this means for your velocity.
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/nklkuzj4gpixyf2/jed-watson.jpg?dl=1)
+
+# [fit] **Single Source**
+# [fit] of **Truth**
+# [fit] Development
+# [fit] **_Jed Watson_**
+# [fit] _@jedwatson_
+
+^
+Finally, Jed Watson will demonstrate an end-to-end project using Prisma, Keystone, GraphQL, TypeScript and Next.js where everything is derived from a single source of truth for the schema and types.
 
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@joshprice` / `@ZachSDaniel1`
+# [fit] `@joshprice` / `@ZachSDaniel1` / `@jedwatson`
 # [fit] **_`@graphqlsydney`_**
 
 ^
