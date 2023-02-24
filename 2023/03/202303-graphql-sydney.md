@@ -57,18 +57,36 @@ Microsoft Reactor is our venue sponsor, enabling us to get back in person, yet s
 [.hide-footer]
 [.slidenumbers: false]
 
-![right]()
+![left](https://www.dropbox.com/s/u8sb3wre58ckujv/bianca-power.jpg?dl=1)
 
-# [fit] Talk 1
-# [fit] **_Someone_**
+# [fit] Getting Started with
+# [fit] **GraphQL**
+# [fit] through
+# [fit] Gatsby.js
+# [fit] **_Bianca Power_**
 
 ^
-Our first speaker tonight is ...
+Our first speaker tonight, Bianca, will talk about how working with Gatsby can be a great way to get familiar with GraphQL, along with some live exploration of GraphQL queries in a simple Gatsby site.
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/2ip4bzl20e7awax/lyndon-maydwell2.png?dl=1)
+
+# [fit] How I Learned to
+# [fit] **Stop Worrying**
+# [fit] and **Love**
+# [fit] Low-Code
+# [fit] **_Lyndon Maydwell_**
+
+^
+Next, Lyndon will describe a database-first approach to application design that greatly increases frontend velocity and puts business-logic back in the driver's seat.
 
 ---
 ![inline 4%](https://www.dropbox.com/s/3p3u9xfgmuyf35e/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@`
+# [fit] `@20by31`
 # [fit] **_`@graphqlsydney`_**
 
 ^
